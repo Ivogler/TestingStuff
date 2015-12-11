@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Ivogler/TestingStuff.png?label=ready&title=Ready)](https://waffle.io/Ivogler/TestingStuff)
 ### Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
